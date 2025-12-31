@@ -9,6 +9,9 @@ numpy = "*"
 pandas = "*"
 matplotlib = "*"
 seaborn = "*"
+folium = "*"
+requests = "*"
+branca = "*"
 
 [dev-packages]
 

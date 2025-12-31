@@ -1,0 +1,2 @@
+# Ignores the datasets folder/files due to their large size
+dataset/
