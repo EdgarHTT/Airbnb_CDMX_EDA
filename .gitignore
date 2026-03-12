@@ -1,2 +1,3 @@
 # Ignores the datasets folder/files due to their large size
-dataset/
+data/raw/airbnb/*
+data/raw/census/*
